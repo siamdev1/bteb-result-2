@@ -1,0 +1,4 @@
+flask
+httpx[http2]
+beautifulsoup4
+gunicorn
